@@ -1,5 +1,4 @@
-// --- B&W Abstract Letter Background ---
-// by Gemini for your Squarespace Site
+
 
 // --- Customization Section ---
 const NUM_LETTERS = 150; // How many letters on screen? (More can impact performance)
